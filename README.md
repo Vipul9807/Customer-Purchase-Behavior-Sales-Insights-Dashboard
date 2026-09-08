@@ -57,7 +57,7 @@ The analysis of 1,000 customer records identified clear differences in bike purc
 - Middle Age customers recorded the highest purchase rate at approximately 54.6%, compared with 35.5% for Adolescents and 31.2% for the Old age group.
 - Customers with a 2–5 mile commute showed the highest purchase rate at approximately 58.6%.
 - The Pacific region recorded the highest purchase rate at approximately 58.9%, compared with 49.3% in Europe and 43.3% in North America.
-- Customers who purchased bikes had a higher average income (~$57,963) than customers who did not (~$54,875).
+- Customers who purchased bikes had a higher average income ($57,963) than customers who did not ($54,875).
 - Professional customers showed relatively strong purchase behavior, with a purchase rate of approximately 53.6%.
 - Single customers had a higher purchase rate (~54.3%) than married customers (~43.0%).
 - Gender showed relatively little difference in overall purchase behavior, with purchase rates of approximately 48.5% for females and 48.0% for males.

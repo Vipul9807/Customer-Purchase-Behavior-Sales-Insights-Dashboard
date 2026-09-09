@@ -8,13 +8,13 @@ Customer Purchase Behavior & Sales Insights Dashboard is an Excel-based learning
 
 An interactive dashboard was created using PivotTables, PivotCharts, and Slicers to explore bike purchase behavior and identify customer segments with higher purchase rates. The project demonstrates practical skills in Excel data analysis, customer segmentation, data visualization, and business insight generation.
 
-## Business Problem 
+## Business Problem
 
 A bike sales business wants to better understand which customer characteristics are associated with bike purchase decisions. The available customer data contains demographic, financial, occupational, geographic and commuting information, but the business needs a simple analytical view to identify customer segments with stronger purchase potential.
 
 The key business challenge is to determine where the business should focus its marketing and sales efforts rather than treating all customers in the same way.
 
-Business Questions
+## Business Questions
 
 The analysis focuses on the following questions:
 
@@ -51,17 +51,18 @@ The project followed a structured Excel-based workflow: **data preparation → c
 
 ## Result Obtained
 
-The analysis of 1,000 customer records identified clear differences in bike purchase behavior across age, commute distance and region.
+The analysis of **1,026 customer records** identified clear differences in bike purchase behavior across age, commute distance and region.
 
-* 481 customers purchased a bike, while 519 did not, resulting in an overall purchase rate of 48.1%.
-* Middle Age customers recorded the highest purchase rate at approximately 54.6%, compared with 35.5% for Adolescents and 31.2% for the Old age group.
-* Customers with a 2–5 mile commute showed the highest purchase rate at approximately 58.6%.
-* The Pacific region recorded the highest purchase rate at approximately 58.9%, compared with 49.3% in Europe and 43.3% in North America.
-* Customers who purchased bikes had a higher average income ($57,963) than customers who did not ($54,875).
+- **481 customers purchased a bike, while 545 did not, resulting in an overall purchase rate of approximately 46.9%.**
+- **Middle Age customers recorded the highest purchase rate at approximately 54.6%,** compared with 35.5% for Adolescents and 31.2% for the Old Age group.
+- **Customers with a 2–5 mile commute showed the highest purchase rate at approximately 58.6%.**
+- **The Pacific region recorded the highest purchase rate at approximately 58.9%,** compared with 49.3% in Europe and 43.3% in North America.
+- **Customers who purchased bikes had a higher average income ($57,963)** than customers who did not ($54,875).
 
 **Overall, the analysis indicates that age, commute distance and region provide useful segmentation opportunities.**
 
 ## Business Recommendations
+
 ### 1. **Prioritize Middle Age Customers**
 
 Focus targeted marketing campaigns on the Middle Age segment, which demonstrates the strongest purchase behavior.
@@ -82,16 +83,16 @@ Professional customers show relatively strong purchase behavior. Marketing could
 
 Rather than targeting customers using a single characteristic, combine:
 
-Age + Commute Distance + Region + Occupation + Income
+**Age + Commute Distance + Region + Occupation + Income**
 
-For example, Middle Age + 2–5 Mile Commute + Pacific Region could be evaluated as a high-potential segment.
+For example, **Middle Age + 2–5 Mile Commute + Pacific Region** could be evaluated as a high-potential segment.
 
 ### 6. **Avoid Over-Reliance on Gender**
 
 Since male and female purchase rates are very similar, gender should not be the primary basis for marketing segmentation. Greater emphasis should be placed on variables that show stronger differences in purchase behavior.
 
-## Final Note:
+## Final Note
+
 **If you found this project insightful or valuable, feel free to ⭐ star the repository.**
 
 I would also love to hear your feedback or suggestions to further improve the analysis and make it more impactful.
-

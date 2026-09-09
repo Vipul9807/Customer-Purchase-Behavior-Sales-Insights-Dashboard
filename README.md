@@ -51,9 +51,9 @@ The project followed a structured Excel-based workflow: **data preparation → c
 
 ## Result Obtained
 
-The analysis of **1,026 customer records** identified clear differences in bike purchase behavior across age, commute distance and region.
+The dashboard analysis of **1,000 customer records** identified clear differences in bike purchase behavior across age, commute distance, region, and income.
 
-- **481 customers purchased a bike, while 545 did not, resulting in an overall purchase rate of approximately 46.9%.**
+- **481 customers purchased a bike, while 519 did not, resulting in an overall purchase rate of 48.1%.**
 - **Middle Age customers recorded the highest purchase rate at approximately 54.6%,** compared with 35.5% for Adolescents and 31.2% for the Old Age group.
 - **Customers with a 2–5 mile commute showed the highest purchase rate at approximately 58.6%.**
 - **The Pacific region recorded the highest purchase rate at approximately 58.9%,** compared with 49.3% in Europe and 43.3% in North America.
@@ -61,16 +61,13 @@ The analysis of **1,026 customer records** identified clear differences in bike 
 
 <img width="1435" height="784" alt="Screenshot 2026-09-09 192234" src="https://github.com/user-attachments/assets/8afe60d1-70c7-436f-af6b-64cf230a0938" />
 
-
-
-
-**Overall, the analysis indicates that age, commute distance and region provide useful segmentation opportunities.**
+**Overall, the analysis indicates that age, commute distance and region provide useful segmentation opportunities, with income serving as a supporting variable.**
 
 ## Business Recommendations
 
 ### 1. **Prioritize Middle Age Customers**
 
-Focus targeted marketing campaigns on the Middle Age segment, which demonstrates the strongest purchase behavior
+Focus targeted marketing campaigns on the Middle Age segment, which demonstrates the strongest observed purchase behavior.
 
 ### 2. **Target 2–5 Mile Commuters**
 
@@ -78,23 +75,19 @@ Develop campaigns specifically for customers with 2–5 mile commutes, emphasizi
 
 ### 3. **Increase Focus on the Pacific Region**
 
-The Pacific region has the highest purchase rate. The business should consider region-specific promotions, campaigns and customer acquisition activities in this market.
+The Pacific region has the highest observed purchase rate. The business should consider region-specific promotions, campaigns and customer acquisition activities in this market.
 
-### 4. **Target Professional Customers**
+### 4. **Use Income as a Supporting Segmentation Variable**
 
-Professional customers show relatively strong purchase behavior. Marketing could position bikes as a practical and efficient commuting solution for working professionals.
+Customers who purchased bikes had a higher average income than non-purchasers. Income can therefore be considered alongside other customer characteristics when developing targeted campaigns.
 
 ### 5. **Use Multi-Dimensional Customer Segmentation**
 
 Rather than targeting customers using a single characteristic, combine:
 
-**Age + Commute Distance + Region + Occupation + Income**
+**Age + Commute Distance + Region + Income**
 
 For example, **Middle Age + 2–5 Mile Commute + Pacific Region** could be evaluated as a high-potential segment.
-
-### 6. **Avoid Over-Reliance on Gender**
-
-Since male and female purchase rates are very similar, gender should not be the primary basis for marketing segmentation. Greater emphasis should be placed on variables that show stronger differences in purchase behavior.
 
 ## Final Note
 

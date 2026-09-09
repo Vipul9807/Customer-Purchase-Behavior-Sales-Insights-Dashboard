@@ -65,7 +65,7 @@ The analysis of **1,026 customer records** identified clear differences in bike 
 
 ### 1. **Prioritize Middle Age Customers**
 
-Focus targeted marketing campaigns on the Middle Age segment, which demonstrates the strongest purchase behavior.
+Focus targeted marketing campaigns on the Middle Age segment, which demonstrates the strongest purchase behavior
 
 ### 2. **Target 2–5 Mile Commuters**
 

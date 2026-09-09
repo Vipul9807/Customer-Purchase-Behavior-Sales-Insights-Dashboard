@@ -27,7 +27,7 @@ The analysis focuses on the following questions:
 - **Which customer characteristics appear most useful for identifying potential bike buyers?**
 - **What customer segments should the business prioritize for targeted marketing?**
 
-<img width="1536" height="1024" alt="ChatGPT Image Sep 8, 2026, 08_41_01 PM" src="https://github.com/user-attachments/assets/4b0c8eb0-303e-4946-850f-79541012baca" />
+<img width="1536" height="1024" alt="ChatGPT Image Sep 9, 2026, 07_06_43 PM" src="https://github.com/user-attachments/assets/a063414c-d5b2-4818-bd0f-cb3178263551" />
 
 ## Methodology
 
@@ -58,6 +58,11 @@ The analysis of **1,026 customer records** identified clear differences in bike 
 - **Customers with a 2–5 mile commute showed the highest purchase rate at approximately 58.6%.**
 - **The Pacific region recorded the highest purchase rate at approximately 58.9%,** compared with 49.3% in Europe and 43.3% in North America.
 - **Customers who purchased bikes had a higher average income ($57,963)** than customers who did not ($54,875).
+
+<img width="1435" height="784" alt="Screenshot 2026-09-09 192234" src="https://github.com/user-attachments/assets/8afe60d1-70c7-436f-af6b-64cf230a0938" />
+
+
+
 
 **Overall, the analysis indicates that age, commute distance and region provide useful segmentation opportunities.**
 

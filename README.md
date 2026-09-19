@@ -51,7 +51,7 @@ The project followed a structured Excel-based workflow: **data preparation → c
 
 ## Result Obtained
 
-The dashboard analysis of **1,000 customer records** identified clear differences in bike purchase behavior across age, commute distance, region, and income.
+The dashboard analysis of **1,026 customer records** identified clear differences in bike purchase behavior across age, commute distance, region, and income.
 
 - **481 customers purchased a bike, while 519 did not, resulting in an overall purchase rate of 48.1%.**
 - **Middle Age customers recorded the highest purchase rate at approximately 54.6%,** compared with 35.5% for Adolescents and 31.2% for the Old Age group.
